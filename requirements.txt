@@ -1,0 +1,11 @@
+qiskit
+qiskit-aer
+qiskit-machine-learning
+pylatexenc
+torch
+torchvision
+torchaudio
+pandas
+seaborn
+matplotlib
+numpy
