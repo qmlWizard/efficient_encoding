@@ -1,7 +1,4 @@
-qiskit
-qiskit-aer
-qiskit-machine-learning
-pylatexenc
+pennylane
 torch
 torchvision
 torchaudio
